@@ -1,3 +1,4 @@
 lien ket 
 git remote add origin https://github.com/TrungSon01/git-79.git
 
+-- đẩy lần 2 trở đi
